@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\eclipse\\2018\\BestTestENGLISH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-18.3.0.aar\\e10a54ed7f894120b8cf2fb2e1122aab\\res\\values-fr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,276,401,467,532,618,729",
+                        "endColumns": "76,124,65,64,85,110,69",
+                        "endOffsets": "275,400,466,531,617,728,798"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "329,410,539,609,678,768,883",
+                        "endColumns": "80,128,69,68,89,114,73",
+                        "endOffsets": "405,534,604,673,763,878,952"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\8d99f447d10c46868eb8e890a16d580e\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "957",
+                        "endColumns": "100",
+                        "endOffsets": "1053"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-17.0.0.aar\\b90f98b12bbaca4ee71ffdaa1348f418\\res\\values-fr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "223",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "223",
+                        "endOffsets": "324"
+                    }
+                }
+            ]
+        }
+    ]
+}

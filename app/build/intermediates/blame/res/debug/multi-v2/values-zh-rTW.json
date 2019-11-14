@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\eclipse\\2018\\BestTestENGLISH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-17.0.0.aar\\b90f98b12bbaca4ee71ffdaa1348f418\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "161",
+                        "endOffsets": "412"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "161",
+                        "endOffsets": "262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-18.3.0.aar\\e10a54ed7f894120b8cf2fb2e1122aab\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,264,339,399,459,523,594",
+                        "endColumns": "60,74,59,59,63,70,61",
+                        "endOffsets": "263,338,398,458,522,593,655"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "267,332,411,475,539,607,682",
+                        "endColumns": "64,78,63,63,67,74,65",
+                        "endOffsets": "327,406,470,534,602,677,743"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mbilon\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\8d99f447d10c46868eb8e890a16d580e\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "748",
+                        "endColumns": "100",
+                        "endOffsets": "844"
+                    }
+                }
+            ]
+        }
+    ]
+}

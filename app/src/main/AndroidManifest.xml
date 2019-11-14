@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="best.test.english"
+    android:versionCode="11"
+    android:versionName="1.1" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <!-- Sample AdMob App  -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4720564849364404~3102612195"/>
+        <activity
+            android:name="best.test.english.Main"
+            android:label="@string/app_name" 
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+            android:screenOrientation="nosensor" 
+        	android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+				
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="best.test.english.Results"
+            android:label="@string/title_activity_q1"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+            android:screenOrientation="nosensor" 
+       		android:configChanges="keyboardHidden|orientation" >
+        </activity>
+        <activity
+            android:name="best.test.english.Test"
+            android:label="@string/title_activity_q2" 
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+            android:screenOrientation="nosensor" 
+        	android:configChanges="keyboardHidden|orientation">
+        </activity>
+    </application>
+
+</manifest>

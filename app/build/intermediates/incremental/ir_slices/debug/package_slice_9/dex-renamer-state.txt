@@ -1,0 +1,4 @@
+#Thu Nov 14 14:41:05 EET 2019
+base.0=D\:\\eclipse\\2018\\BestTestENGLISH\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
